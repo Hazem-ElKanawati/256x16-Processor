@@ -151,4 +151,4 @@ The ALU supports:
 
 This project demonstrates the complete design of a **basic processor in VHDL**, combining datapath components, control logic, and memory systems into a functional CPU model.
 
-It serves as a strong foundation for understanding **digital design, computer architecture, and RTL
+
