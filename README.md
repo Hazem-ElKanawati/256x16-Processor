@@ -147,25 +147,6 @@ The ALU supports:
 * Performance optimization
 
 ---
-
-## Project Structure
-
-```
-/src
-  ├── PC.vhd
-  ├── ALU.vhd
-  ├── ControlUnit.vhd
-  ├── RegisterFile.vhd
-  ├── DataMemory.vhd
-  ├── InstructionMemory.vhd
-  ├── MUX.vhd
-
-/testbench
-  └── processor_tb.vhd
-```
-
----
-
 ## Summary
 
 This project demonstrates the complete design of a **basic processor in VHDL**, combining datapath components, control logic, and memory systems into a functional CPU model.
